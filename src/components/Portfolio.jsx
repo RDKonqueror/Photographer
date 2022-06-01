@@ -11,7 +11,7 @@ const Portfolio = () => {
   })
 
   const getData = () => {
-    fetch('https://pixabay.com/api/?key=27551580-efc540a1cb793bf75da466037&q=portrait&image_type=photo').then(function (response) {
+    fetch('https://pixabay.com/api/?key={API_KEY}&q=portrait&image_type=photo').then(function (response) {
       return response.json();
     })
       .then(function (data) {
