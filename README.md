@@ -3,7 +3,8 @@
 <div align="center">
   A photographer's portfolio website demo
 </div>
-<div style="width: 100%;margin-top: 25px;">
+<br />
+<div style="width: 100%;">
   <img src="screenshot.png" width="100%" />
 </div>
 
