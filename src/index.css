@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+
+body {
+  background: url('../public/bg.jpg') center fixed;
+  background-size: cover;
+  /* overflow: hidden; */
+}
+
+a {
+  text-decoration: none;
+}
